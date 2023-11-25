@@ -25,6 +25,7 @@ DefinitionBlock ("", "SSDT", 2, "DRTNIA", "XOSI", 0x00001000)
                 "Windows 2019",
                 "Windows 2020",
                 "Windows 2021",
+                "Windows 2022",
                 "Microsoft Windows NT", 
                 "Microsoft Windows", 
                 "Microsoft WindowsME: Millennium Edition"
